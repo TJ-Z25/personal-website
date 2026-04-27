@@ -1,0 +1,28 @@
+---
+title: "Selected Graduate Projects"
+---
+
+<br>
+
+<div class="project-card">
+### 1. Metro Atlanta Food Access & Spatial Disparity Analysis
+**Description:** Conducted a comprehensive spatial analysis evaluating food access gaps across Metro Atlanta. I mapped USDA-designated food deserts against 30-minute public transit accessibility using Zero-Inflated Negative Binomial (ZINB) modeling to identify critical neighborhood-level resource gaps for public health interventions.
+
+**Key Tools:** R, Leaflet, Flexdashboard, ArcGIS Pro
+
+**Link:** [View Live Dashboard](https://tj-z25.github.io/Atlanta-Food-Access-Dashboard/) | [GitHub Source Code](https://github.com/TJ-Z25/Atlanta-Food-Access-Dashboard)
+</div>
+
+<div class="project-card">
+### 2. Starbucks Nutritional Analysis: A Reproducible Data Pipeline
+**Description:** Developed a fully reproducible data science pipeline to analyze the nutritional composition of 242 Starbucks beverages. The project explores the relationships between caloric content, sugars, and fats across various beverage categories. I implemented a modular architecture using R scripts for data wrangling and ggplot2 for statistical visualization.
+
+**Technical Highlights:**
+* **Reproducibility:** Containerized the entire analysis environment using **Docker** and managed R dependencies with **renv**.
+* **Automation:** Utilized a **Makefile** to automate the end-to-end workflow, from data cleaning to the final HTML report generation.
+* **Statistical Analysis:** Conducted descriptive statistics and distribution analysis to identify nutritional outliers and trends.
+
+**Key Tools:** R (tidyverse, ggplot2), Docker, Makefile, Shell Scripting
+
+**Link:** [GitHub Repository](https://github.com/TJ-Z25/starbucks)
+</div>

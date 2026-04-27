@@ -1,0 +1,22 @@
+name: "personal-website"
+title: "Tianjie Zhang"
+output_dir: "."
+navbar:
+  title: "Tianjie Zhang"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "CV"
+      href: cv.html
+      icon: fa-file-alt
+    - text: "Projects"
+      href: projects.html
+      icon: fa-project-diagram
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/TJ-Z25
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css

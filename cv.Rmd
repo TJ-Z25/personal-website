@@ -1,0 +1,13 @@
+---
+title: "Curriculum Vitae"
+---
+
+<br>
+
+<center>
+<iframe src="resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
+</center>
+
+<br>
+
+**[Click here to download a PDF copy of my CV](resume.pdf)**
